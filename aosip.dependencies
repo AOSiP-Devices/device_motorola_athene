@@ -1,0 +1,50 @@
+[
+  {
+    "repository":  "LineageOS/android_kernel_motorola_msm8952",
+    "target_path": "kernel/motorola/msm8952",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "LineageOS/android_external_bson",
+    "target_path": "external/bson",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "LineageOS/android_external_stlport",
+    "target_path": "external/stlport",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "LineageOS/android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings",
+    "branch": "cm-14.1"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_motorola",
+    "target_path":  "vendor/motorola",
+    "branch": "cm-14.1"
+  },
+  {
+    "remote":      "github",
+    "repository" : "LineageOS/android_hardware_qcom_audio",
+    "target_path": "hardware/qcom/audio-caf/msm8952",
+    "branch"     : "cm-14.1-caf-8952"
+  },
+  {
+    "remote":      "github",
+    "repository" : "LineageOS/android_hardware_qcom_display",
+    "target_path": "hardware/qcom/display-caf/msm8952",
+    "branch"     : "cm-14.1-caf-8952"
+  },
+  {
+    "remote":      "github",
+    "repository" : "LineageOS/android_hardware_qcom_media",
+    "target_path": "hardware/qcom/media-caf/msm8952",
+    "branch"     : "cm-14.1-caf-8952"
+  },
+  { "remote":      "github",
+    "repository" : "LineageOS/android_packages_apps_Snap",
+    "target_path": "packages/apps/Snap",
+    "branch"     : "cm-14.1"
+  }
+]
